@@ -13,3 +13,8 @@ Nos acompanhe:
 
 ## Tutorial
 Descrever o objetivo do tutorial
+
+Para inicializar esse tutorial basta executar o seguinte comando em seu terminal
+```
+python manage.py runserver
+```
