@@ -15,9 +15,10 @@ Nos acompanhe:
 * [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdjangogirls.org%2Fbrasilia%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=pyladiesdf&tw_p=followbutton)
 
 ## Tutorial
-Descrever o objetivo do tutorial
+Este tutorial tem o objetivo de fazer uma introdução aos conceitos básicos do Django a partir da criação de um blog pessoal.
 
-Para inicializar esse tutorial basta executar o seguinte comando em seu terminal
+Para inicializar esse tutorial basta executar o seguinte comando em seu terminal:
 ```
 python manage.py runserver
 ```
+
