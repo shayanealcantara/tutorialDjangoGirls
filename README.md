@@ -1,8 +1,9 @@
 # Tutorial Django Girls 2019
 
 ## Sobre Django Girls
-
-![Django Girls](https://djangogirls.org/static/img/global/logo.png)
+<p align="center">
+  <img src="https://djangogirls.org/static/img/global/logo.png">
+</p>
 
 Django Girls é uma organização sem fins lucrativos e uma comunidade que empodera e ajuda mulheres a organizarem gratuitamente workshops provendo ferramentas, recursos e suporte. Somos uma organização que funciona a partir de trabalho voluntário com centenas de pessoas contribuindo para trazer mais mulheres incríveis para  mundo da tecnologia. Trabalhamos para deixar a tecnologia mais acessível criando recursos pensados com empatia.
 
@@ -21,4 +22,3 @@ Para inicializar esse tutorial basta executar o seguinte comando em seu terminal
 ```
 python manage.py runserver
 ```
-
